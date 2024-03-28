@@ -6,8 +6,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/netanelsayada)
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@ssnetanel)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)](https://linkedin.com/in/netanelsayada)
+[![Medium](https://www.vectorlogo.zone/logos/medium/medium-tile.svg)](https://medium.com/@ssnetanel)
 
 ## Languages and Tools:
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
