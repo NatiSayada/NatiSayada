@@ -1,4 +1,5 @@
 # Hi 👋, I'm Nati Sayada
+
 I'm a passionate DevOps Engineer with experience in a variety of technologies and tools. I have a strong background in cloud computing, containerization, and automation. I'm always eager to learn new technologies and improve my skills. In my free time, I enjoy contributing to open-source projects and writing technical blog posts.
 
 
@@ -31,9 +32,10 @@ I'm a passionate DevOps Engineer with experience in a variety of technologies an
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=natisayada&show_icons=true&locale=en&layout=compact&theme=dark)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=natisayada&show_icons=true&locale=en&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natisayada&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=natisayada&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165">
+</p>
 
 ## Connect with me on:
 <a href="https://linkedin.com/in/netanelsayada">
