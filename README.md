@@ -12,26 +12,26 @@ I'm a passionate DevOps Engineer with experience in a variety of technologies an
 
 ## Languages and Tools:
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
+![Bitbucket](https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+![Helm](https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
 ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
 ![Packer](https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg)
 ![ArgoCD](https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg)
 ![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg)
+![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)
 ![Jaeger](https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg)
-![Helm](https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
-![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)
+![Gradle](https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Bitbucket](https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg)
-![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 
 ## My GitHub Stats
 
