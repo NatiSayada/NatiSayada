@@ -6,8 +6,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me:
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)](https://linkedin.com/in/netanelsayada)
-[![Medium](https://www.vectorlogo.zone/logos/medium/medium-tile.svg)](https://medium.com/@ssnetanel)
+<a href="https://linkedin.com/in/netanelsayada">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
+</a>
+<a href="https://medium.com/@ssnetanel">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30">
+</a>
 
 ## Languages and Tools:
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
