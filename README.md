@@ -40,6 +40,7 @@ I'm a passionate DevOps Engineer with experience in a variety of technologies an
   <img src="https://github-readme-stats.vercel.app/api?username=natisayada&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165">
 </p>
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

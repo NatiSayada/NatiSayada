@@ -2,8 +2,10 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
