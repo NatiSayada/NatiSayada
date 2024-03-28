@@ -4,6 +4,9 @@ I'm a passionate DevOps Engineer with experience in a variety of technologies an
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ensuring Dev &amp; Release Branch Sync in Bitbucket with Azure DevOps Pipelines](https://medium.com/@ssnetanel/ensuring-dev-release-branch-sync-in-bitbucket-with-azure-devops-pipelines-e79efbe2a742?source=rss-7532a577ab2c------2)
+- [Dealing with a Large Terraform Repository](https://medium.com/@ssnetanel/dealing-with-a-large-terraform-repository-953f44c8f631?source=rss-7532a577ab2c------2)
+- [Build a Kubernetes cluster using k3s on Proxmox via Ansible and Terraform](https://medium.com/@ssnetanel/build-a-kubernetes-cluster-using-k3s-on-proxmox-via-ansible-and-terraform-c97c7974d4a5?source=rss-7532a577ab2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools:
