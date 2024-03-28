@@ -40,10 +40,10 @@ I'm a passionate DevOps Engineer with experience in a variety of technologies an
   <img src="https://github-readme-stats.vercel.app/api?username=natisayada&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165">
 </p>
 
-## Connect with me on:
-<a href="https://linkedin.com/in/netanelsayada">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
-</a>
-<a href="https://medium.com/@ssnetanel">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30">
-</a>
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/netanelsayada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="netanelsayada" height="30" width="40" /></a>
+<a href="https://medium.com/@ssnetanel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ssnetanel" height="30" width="40" /></a>
+</p>
