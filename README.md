@@ -1,5 +1,6 @@
 # Hi 👋, I'm Nati Sayada
-### A passionate DevOps Engineer
+I'm a passionate DevOps Engineer with experience in a variety of technologies and tools. I have a strong background in cloud computing, containerization, and automation. I'm always eager to learn new technologies and improve my skills. In my free time, I enjoy contributing to open-source projects and writing technical blog posts.
+
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -7,14 +8,6 @@
 - [Dealing with a Large Terraform Repository](https://medium.com/@ssnetanel/dealing-with-a-large-terraform-repository-953f44c8f631?source=rss-7532a577ab2c------2)
 - [Build a Kubernetes cluster using k3s on Proxmox via Ansible and Terraform](https://medium.com/@ssnetanel/build-a-kubernetes-cluster-using-k3s-on-proxmox-via-ansible-and-terraform-c97c7974d4a5?source=rss-7532a577ab2c------2)
 <!-- BLOG-POST-LIST:END -->
-
-## Connect with me:
-<a href="https://linkedin.com/in/netanelsayada">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
-</a>
-<a href="https://medium.com/@ssnetanel">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30">
-</a>
 
 ## Languages and Tools:
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
@@ -32,8 +25,20 @@
 ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
 ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
 ![ArgoCD](https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg)
+![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg)
+![Jaeger](https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg)
 
+
+## My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=natisayada&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=natisayada&show_icons=true&locale=en&theme=dark)
+
+## Connect with me on:
+<a href="https://linkedin.com/in/netanelsayada">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
+</a>
+<a href="https://medium.com/@ssnetanel">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30">
+</a>
